@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HabdymanFinder</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="state_names">
+        <item>Chennai</item>
+        <item>Kanpur</item>
+        <item>Hyderabad</item>
+        <item>Bangalore</item>
+    </string-array>
+
+    <string-array name="service_names">
+        <item>Plumber</item>
+        <item>Electrician</item>
+        <item>Mechanic</item>
+    </string-array>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
